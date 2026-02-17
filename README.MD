@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Open Source is amazing**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I am okay at:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reinerburg&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="reinerburg" /></p>
